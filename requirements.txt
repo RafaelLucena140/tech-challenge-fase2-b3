@@ -1,0 +1,6 @@
+```text
+    pandas
+    yfinance
+    boto3
+    pyarrow
+    ```
