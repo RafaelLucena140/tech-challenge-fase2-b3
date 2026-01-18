@@ -19,7 +19,7 @@ O pipeline foi desenhado para ser **Event-Driven** (orientado a eventos), garant
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Python 3.9+
+* **Linguagem:** Python 3.11.2
 * **Bibliotecas:** `boto3`, `pandas`, `yfinance`, `pyarrow`
 * **AWS Services:**
     * **S3:** Data Lake (Camadas Raw e Refined).
