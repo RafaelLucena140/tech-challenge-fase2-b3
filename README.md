@@ -1,6 +1,6 @@
 # 📊 Tech Challenge - Pipeline de Engenharia de Dados (B3)
 
-Este projeto compõe a entrega da **Fase 2** da Pós-Tech em Data Analytics. O objetivo foi construir um pipeline de dados completo na nuvem AWS para a ingestão, processamento e análise de dados da Bolsa de Valores (B3).
+Este projeto compõe a entrega da **Fase 2** da Pós-Tech em Machine Learning Engineering. O objetivo foi construir um pipeline de dados completo na nuvem AWS para a ingestão, processamento e análise de dados da Bolsa de Valores (B3).
 
 ## 🚀 Arquitetura da Solução
 
