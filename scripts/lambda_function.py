@@ -3,7 +3,6 @@ import json
 
 def lambda_handler(event, context):
     glue = boto3.client('glue')
-    # Substitua pelo nome exato que você deu no Passo 2
     job_name = 'B3_Job_Transformacao' 
     
     try:
